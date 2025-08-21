@@ -1,0 +1,11 @@
+{
+  "name": "Countdown Widget",
+  "version": "1.0.0",
+  "description": "Zeigt einen Countdown zu einem Event an.",
+  "customConfig": {
+    "eventDate": {
+      "type": "date",
+      "label": "Event-Datum"
+    }
+  }
+}
